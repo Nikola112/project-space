@@ -1,1 +1,1 @@
-/* This script will contain logic for starfield in background. */
+/* This script contains logic for starfield that will be shown in background. */
