@@ -1,0 +1,1 @@
+/* This script contains everithing that needs to be initialized before page */
